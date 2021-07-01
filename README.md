@@ -25,5 +25,8 @@ A: Why wouldn't you? This was designed by us, for us. We are simply sharing it w
 - A duplicate of this information, should your MagicWandBand and/or microSD card ever be lost or stolen**
 - ** If stolen, please have a STRONG encrypted passphrase to protect against unwanted parties accessing this sensitive/private information
 - Have a "dummy" MagicWandBand and/or microSD card to deter criminals from accessing your main MagicWandBand. Multiple devices help out in this type of possible senario. 
-- 
+
+
+
+
 Copyright Eden3D Printer LLC 2021
