@@ -17,7 +17,7 @@ Q: What is the purpose of storing files on a wearable device?
 A: Having files stored offline, in an air-gapped manner can be incredibly powerful.  Behind an encrypted passphrase on your microSD card, you can feel safe traveling with personal digital files, with minimal risk of losing your hard drive. Store G-Code, .XMF or .STL files to a local 3D printer in your area. Save photos and videos to share. Even store your Bitcoin private keys [WARNING THIS CAN BE DANGEROUS]*! Any digital file that can be stored on a microSD card, can be stored on the MagicWandBand.
 
 [In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
---
+
 Q: How stupid. Why would I carry around my 3D printable files on my wrist!?
 ---
 A: Why wouldn't you? This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
