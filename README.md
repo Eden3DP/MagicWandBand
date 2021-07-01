@@ -1,8 +1,11 @@
 # MagicWandBand
 This 3D printable product is available in the Eden3D.io store for purchase
+
 [images uploaded soon]
 
 
+
+-----------------------------------------------
 # FAQ
 Q: What is the MagicWandBand?
 ---
