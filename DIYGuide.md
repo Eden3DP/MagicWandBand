@@ -1,8 +1,22 @@
 # MagicWandBand
 This 3D printable product is available in the Eden3D.io store for purchase
-
+A step-by-step guide to build your own MagicWandBand, the 3D printed Magical Wrist Band
+------
 [images uploaded soon]
 
+------
+# Step 0
+Hardware prerequisites:
+
+• [See our BOM (Bill of Materials) list here: ]
+
+• Desire to own and use a Magic Wand
+
+------
+# Step 1
+Source all necessary components:
+
+• Review that you have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
 
 
 -----------------------------------------------
