@@ -18,6 +18,17 @@ Source all necessary components:
 
 • Review that you have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
 
+------
+# Step 2
+Begin Build:
+
+• Prepare CAD file to be sliced for your 3D Printer
+• Filament is TPU
+- We recommend at least;
+- Two (2) walls
+- >20% infill
+- **PRINT SLOW** 30mm/s
+
 
 -----------------------------------------------
 # FAQ
