@@ -12,6 +12,7 @@ Hardware prerequisites:
 
 • Desire to own and use a Magic Wand
 
+
 ------
 # Step 1
 Source all necessary components:
