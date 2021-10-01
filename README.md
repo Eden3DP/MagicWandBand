@@ -2,6 +2,8 @@
 This 3D printable product is available in the Eden3D.io store for purchase
 
 Verison 0.1 .STL here: https://github.com/Eden3DP/3D-Files/tree/main/MagicWandBand
+
+
 [images uploaded soon]
 
 
